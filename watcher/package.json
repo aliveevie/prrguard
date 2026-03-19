@@ -1,0 +1,20 @@
+{
+  "name": "prrr-guard-watcher",
+  "version": "1.0.0",
+  "description": "PrrrGuard Watcher SDK - Permissionless DeFi anomaly detection",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts",
+    "dev": "ts-node-dev --respawn src/index.ts"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.4.0"
+  }
+}
