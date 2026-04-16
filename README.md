@@ -2,6 +2,8 @@
 
 **Permissionless DeFi Attack Detection Powered by the Prrr Mechanism**
 
+**support our work on giveth**
+
 > Faithful on-chain implementation of *"Prrr: Personal Random Rewards for Blockchain Reporting"* — Chen, Ke, Deng, Eyal (IC3)
 
 [![Tests](https://img.shields.io/badge/tests-77%20passing-brightgreen)]()
@@ -315,5 +317,12 @@ forge script script/SimulateAttack.s.sol --rpc-url $SEPOLIA_RPC_URL --broadcast 
 - Aave V3 Security Architecture
 
 ---
+## Giveth Project Verification
+
+PrrrGuard is listed on Giveth as a public good contributing to DeFi security research and infrastructure. Donations support mainnet deployment, security audits, and open-source tooling for the watcher ecosystem.
+
+**Official Giveth project page:** https://giveth.io/project/prrrguard
+
+This README serves as the official public statement verifying that the Giveth project listed above is owned and operated by the PrrrGuard team under IBX Lab. Any Giveth project claiming to represent PrrrGuard not linked from this repository is not authorized by the team.
 
 *Built for the Shape Rotator Virtual Hackathon 2026 — DeFi, Security & Mechanism Design Track*
